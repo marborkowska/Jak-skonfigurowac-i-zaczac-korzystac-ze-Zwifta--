@@ -158,11 +158,11 @@ Więcej informacji na [stronie ZTPL](https://ztpl.cc/zwift-power).
 
 Więcej informacji na temat Zwifta można znaleźć na następujących stronach:   
 
-[Strona główna aplikacji Zwift](https://www.zwift.com) (EN)  
-[Strona informacyjna Zwift](https://ztpl.cc) (PL)   
-[Kalendarz Zwifta](https://zwiftinsider.com/schedule) (EN)  
-[Wydarzenia](https://www.zwift.com/eu/events) (EN)  
-[Trasy](https://zwifthacks.com/app/routes/) (EN)  
-[Plany treningowe](https://whatsonzwift.com/workouts) (EN)  
-[FanPage ZwiftPolska na Facebooku](https://www.facebook.com/ZwiftPolska) (PL)  
-[Grupa na Facebooku: Polska Społeczność Zwift - ZTPL Cycling Club](https://www.facebook.com/groups/zwift.polska) (PL)
+* [Strona główna aplikacji Zwift](https://www.zwift.com) (EN)  
+* [Strona informacyjna Zwift](https://ztpl.cc) (PL)   
+* [Kalendarz Zwifta](https://zwiftinsider.com/schedule) (EN)  
+* [Wydarzenia](https://www.zwift.com/eu/events) (EN)  
+* [Trasy](https://zwifthacks.com/app/routes/) (EN)  
+* [Plany treningowe](https://whatsonzwift.com/workouts) (EN)  
+* [FanPage ZwiftPolska na Facebooku](https://www.facebook.com/ZwiftPolska) (PL)  
+* [Grupa na Facebooku: Polska Społeczność Zwift - ZTPL Cycling Club](https://www.facebook.com/groups/zwift.polska) (PL)
