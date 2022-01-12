@@ -77,7 +77,7 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
    1. Ściągnij aplikację Zwift na docelowe urządzenie.
    2. Załóż [wymagane konta](#czego-potrzebujesz) i je ze sobą zintegruj (patrz [Glosariusz](#glosariusz)).
    3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia, z których korzystasz.
-   4. Uruchom aplikację Zwift i zaloguj się do swojego konta.
+   4. Uruchom Zwifta i zaloguj się do swojego konta.
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)). Jeśli łączysz się przez ant+, upewnij się, że przy opcjach _Power source_ i _Controllable_ pojawia się symbol _FE-C_. Jeśli tak nie jest, kliknij _Search_ i wybierz go z listy. 
    6. Na ekranie _Paired devices_ sparuj wszystkie dodatkowe urządzenia. Jeśli połączą się poprawnie, zostaną oznaczone jako _Connected_, a przejście do kolejnego ekranu nastąpi automatycznie. W innym przypadku kliknij _Let's Go_.
    7. Na ekranie startowym kliknij _Ride_. Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Możesz również dostosować ustawienia w _Settings_. Wróć do ekranu startowego, klikając _Return to Home_.
@@ -148,7 +148,7 @@ opcja dostępna w niektórych trenażerach smart, która wyłącza sterowanie op
 Więcej informacji na [stronie ZTPL](https://ztpl.cc/treningi-na-zwift/).
 
 > **Zwift Companion**   
-[aplikacja](https://play.google.com/store/apps/details?id=com.zwift.android.prod&hl=pl&gl=US) dostępna na telefon, umożliwiająca nawigację podczas treningów, dołączanie do wydarzeń rozgrywających się na Zwifcie, czy analizowanie danych treningowych.
+darmowa [aplikacja](https://play.google.com/store/apps/details?id=com.zwift.android.prod&hl=pl&gl=US) dostępna na telefon, umożliwiająca nawigację podczas treningów, dołączanie do wydarzeń rozgrywających się na Zwifcie, czy analizowanie danych treningowych.
 
 > **ZwiftPower**  
 [strona internetowa](https://zwiftpower.com) gromadząca wyniki z wyścigów i treningów wykonanych na Zwifcie. Należy najpierw utworzyć na niej osobne konto, a następnie połączyć je z kontem Zwift. Więcej informacji na [stronie ZTPL](https://ztpl.cc/zwift-power).
