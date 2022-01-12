@@ -80,7 +80,7 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
    4. Uruchom aplikację Zwift.
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)). Jeśli łączysz się przez ant+, upewnij się, że przy opcjach _Power source_ i _Controllable_ pojawia się symbol _FE-C_. Jeśli tak nie jest, kliknij _Search_ i wybierz go z listy. 
    6. Na ekranie _Paired devices_ sparuj wszystkie dodatkowe urządzenia. Jeśli połączą się poprawnie, zostaną oznaczone jako _Connected_, a przejście do kolejnego ekranu nastąpi automatycznie.
-   7. Na ekranie startowym kliknij _Ride_. Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Wróć do ekranu startowego, klikając _Return to Home_.
+   7. Na ekranie startowym kliknij _Ride_. Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Możesz również dostosować ustawienia w _Settings_. Wróć do ekranu startowego, klikając _Return to Home_.
    8. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_). Wróć do ekranu startowego.
    9.  Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. **Ride On!** W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
    10.  Po zakończonej jeździe zapisz dane, wyłącz aplikację i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na _ZwiftPower_. W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_.  
@@ -90,7 +90,7 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
 W aplikacji możesz wybrać spośród wielu aktywności sportowych:
 
    * jazda dowolna (_free ride_) 
-      * wybór trasy w jednym z dostępnych światów w aplikacji Zwift (zgodnie z [kalendarzem](https://zwiftinsider.com/schedule))  
+      * wybór trasy (_Routes_) w jednym ze światów dostępnych w danym dniu w aplikacji Zwift (zgodnie z [kalendarzem](https://zwiftinsider.com/schedule))  
       * poprawianie własnych czasów na segmetach (KOM, sprint, loop) i zdobywania koszulek (najlepszego górala, sprintera itp.)
       * korzystanie z [PowerUp’ów](https://zwiftinsider.com/powerups), zmiana kierunku jazdy, robienie zdjęć, pisanie komentarzy do innych użytkowników na trasie, dawanie like’ów, tzw. _Ride-On_ (przydatny _Zwift Companion_).
 
