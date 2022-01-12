@@ -81,10 +81,9 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)).
    6. Sparuj wszystkie dodatkowe sprzęty, z których korzystasz.
    7. Skonfiguruj awatara i wybierz rower oraz koła z dostępnych w aplikacji.
-   8. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_).
+   8. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_). Wróć do ekranu startowego.
    9. Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. Ride On! W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
    10.  Po zakończonej jeździe zapisz dane, wyłącz aplikację i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na _ZwiftPower_. W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_.  
- 
  
 ## Co możesz robić na Zwifcie?
 
