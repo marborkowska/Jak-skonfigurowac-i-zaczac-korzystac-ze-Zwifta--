@@ -60,7 +60,7 @@ Warto zapoznać się też z [minimalnymi wymaganiami sprzętowymi](https://suppo
 Zwift jest aplikacją **płatną**. Po utworzeniu konta otrzymujesz 25 km darmowej jazdy próbnej, podczas której możesz przetestować wszystkie funkcjonalności. 
 
 Opłata za korzystanie ze Zwifta wynosi **14,99 euro** miesięcznie.   
-Możesz wybrać walutę dokonywania płatności (polecam dolary kanadyjskie CAD, gdyż jest lepszy przelicznik do PLN i możesz trochę zaoszczędzić. Więcej informacji jest dostępnych na [FB](https://www.facebook.com/groups/zwift.polska/permalink/2786923034855962)).  
+Możesz wybrać walutę dokonywania płatności. Polecam dolary kanadyjskie CAD, gdyż jest lepszy przelicznik do PLN i możesz trochę zaoszczędzić. Więcej informacji jest dostępnych na [FB](https://www.facebook.com/groups/zwift.polska/permalink/2786923034855962).  
 
 Aby dokonać płatności, musisz podać dane karty płatniczej. Płatności są pobierane z karty automatycznie co miesiąc. 
 
@@ -75,14 +75,14 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
 ## Jak zacząć?
 
    1. Ściągnij aplikację Zwift na docelowe urządzenie.
-   2. Załóż wymagane konta i je ze sobą zintegruj.
-   3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia (wymienione w pkt. 3).
+   2. Załóż [wymagane konta](#czego-potrzebujesz) i je ze sobą zintegruj (patrz [Glosariusz](#glosariusz)).
+   3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia, z których korzystasz.
    4. Uruchom aplikację Zwift.
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)).
    6. Sparuj wszystkie dodatkowe sprzęty, z których korzystasz.
    7. Skonfiguruj awatara i wybierz rower oraz koła z dostępnych w aplikacji.
-   8. Wykonaj test FTP (wybór z _Workout_).
-   9. Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
+   8. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_).
+   9. Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. Ride On! W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
    10.  Po zakończonej jeździe zapisz dane, wyłącz aplikację i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na _ZwiftPower_. W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_.  
  
  
@@ -111,8 +111,8 @@ W aplikacji możesz wybrać spośród wielu aktywności sportowych:
       * indywidualne – wybór jednego z dostępnych treningów lub planów treningowych lub załadowanie własnego planu treningowego z innej aplikacji
       * grupowe – w formie jazdy grupowej
 
-   * jazda z _Pacemaker_ (_Join another Zwifter?_) 
-      dołączenie do jednego z użytkowników aktualnie znajdującego się na trasie 
+   * jazda z _Pacemaker_ (_Join another Zwifter?_)  
+        dołączenie do jednego z użytkowników aktualnie znajdującego się na trasie 
 
 ## Jak poradzić sobie z problemami?
 
