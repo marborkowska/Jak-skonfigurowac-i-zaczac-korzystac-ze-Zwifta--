@@ -79,7 +79,7 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
    3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia, z których korzystasz.
    4. Uruchom aplikację Zwift i zaloguj się do swojego konta.
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)). Jeśli łączysz się przez ant+, upewnij się, że przy opcjach _Power source_ i _Controllable_ pojawia się symbol _FE-C_. Jeśli tak nie jest, kliknij _Search_ i wybierz go z listy. 
-   6. Na ekranie _Paired devices_ sparuj wszystkie dodatkowe urządzenia. Jeśli połączą się poprawnie, zostaną oznaczone jako _Connected_, a przejście do kolejnego ekranu nastąpi automatycznie. W innym przypadku kliknij _Let's Go_).
+   6. Na ekranie _Paired devices_ sparuj wszystkie dodatkowe urządzenia. Jeśli połączą się poprawnie, zostaną oznaczone jako _Connected_, a przejście do kolejnego ekranu nastąpi automatycznie. W innym przypadku kliknij _Let's Go_.
    7. Na ekranie startowym kliknij _Ride_. Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Możesz również dostosować ustawienia w _Settings_. Wróć do ekranu startowego, klikając _Return to Home_.
    8. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_). Wróć do ekranu startowego.
    9.  Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. Kliknij _Ride_ i **Ride On!** W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
@@ -129,7 +129,7 @@ Trenażer nie podaje oporu na podjazdach. | Wróć do ekranu parowania sprzętu 
 ## Glosariusz
 
 > **Awatar**   
-obrazek reprezentujący użytkownika w wirtualnym świecie. Na Zwifcie dostosowuje się on do wymiarów danej osoby po podaniu wzrostu i wagi. Awatara można skonfigurować w _Garage_ przez wybranie m.in. kasku, koszulki, czy cech charakterystycznych danej osoby. 
+obrazek reprezentujący użytkownika w wirtualnym świecie. Na Zwifcie dostosowuje się on do wymiarów danej osoby po podaniu wzrostu i wagi. Awatara możesz skonfigurować w _Menu > Garage_ przez wybranie m.in. kasku, koszulki czy Twoich cech charakterystycznych.
 
 > **Kategorie wyścigowe**  
 Każdy wyścig na Zwifcie jest oznaczony literami od A do E, w zależności od poziomu wytrenowania kolarza, przy czym A jest dla tych najlepszych, a E to wydarzenie dostępne dla wszystkich. Wyniki podawane są również w tych kategoriach. Nie ma kategorii wiekowych. Aby dowiedzieć się, do jakiej kategori należysz, wykonaj test FTP.  Więcej informacji na [stronie Zwifta](https://www.zwift.com/news/12012-zwift-how-to-choose-your-cycling-race-category?__znl=en-eu).  
@@ -141,7 +141,7 @@ Każdy wyścig na Zwifcie jest oznaczony literami od A do E, w zależności od p
 funkcjonalna moc progowa, czyli najwyższa możliwa moc, jaką jesteś w stanie utrzymać przez godzinę jazdy. Wynik podaje się w watach i watach na kilogram. Na Zwifcie można wykonac ten test w wersji krótszej, dłuższej lub w formie tzw. _Ramp Test_. Jego wynik umożliwia dostosowanie stref treningowych, porównanie poziomu wytrenowania na przestrzeni miesięcy i określenie kategorii wyścigowej.
 
 > **Trenażer interaktywny (smart)**  
-urządzenie treningowe (rolkowe lub _Direct Drive_), które umożliwia jazdę na rowerze w pomieszczeniu. Łączy się ono z dedykowaną aplikacją (np. Zwift), wysyłając do niej różne dane tj. prędkość, moc, kadencja oraz odbierając inne dane, np. o podjeździe, przez co steruje oporem realnie odzwierciedlając profil trasy. Przykładowymi producentami takich trenażerów są firmy Tacx, Elite, Wahoo.
+urządzenie treningowe (rolkowe lub _Direct Drive_), które umożliwia jazdę na rowerze w pomieszczeniu. Łączy się ono z dedykowaną aplikacją (np. Zwift), wysyłając do niej różne dane tj. prędkość, moc, kadencja oraz odbierając inne dane, np. o podjeździe, przez co steruje oporem, realnie odzwierciedlając profil trasy. Przykładowymi producentami takich trenażerów są firmy Tacx, Elite, Wahoo.
 
 > **Tryb ERG**  
 opcja dostępna w niektórych trenażerach smart, która wyłącza sterowanie oporem zwiazane z nachyleniem danej trasy. Ważne są tylko waty, jakie należy wygenerować przy określonej kadencji. Na Zwifcie dostępna jest w opcji treningu (_Workout_).
