@@ -17,16 +17,18 @@ Spis treści
 ## Wstęp
    
 ### Co to jest Zwift?  
-**Zwift** to aplikacja internetowa, która umożliwia przeprowadzenie treningu w domu, ale w wirtualnej rzeczywistości. Wystarczy wpiąć rower w interaktywny trenażer lub wskoczyć na bieżnię, by dołączyć do społeczności kolarzy i biegaczy na całym świecie. Jest to świetna alternatywa dla jazdy na zewnątrz w warunkach zimowych lub kwarantanny. Aplikacja ta wciąż się rozwija, więc jej użytkownikom nuda nie grozi.
+**Zwift** to aplikacja internetowa, która umożliwia przeprowadzenie treningu w domu, w wirtualnej rzeczywistości. Wystarczy wpiąć rower w interaktywny trenażer lub wskoczyć na bieżnię, by dołączyć do społeczności kolarzy i biegaczy na całym świecie. Jest to świetna alternatywa dla jazdy na zewnątrz w warunkach zimowych lub kwarantanny. Aplikacja ta wciąż się rozwija, więc jej użytkownikom nuda nie grozi.
   
 ### Dla kogo jest ten podręcznik?  
 Jeśli jesteś **kolarzem**, dopiero co kupiłeś swój pierwszy **trenażer interaktywny**, coś słyszałeś o **Zwifcie**, ale nie za bardzo wiesz, jak to wszystko podłączyć, sparować, skalibrować, to ten krótki podręcznik użytkownika jest właśnie dla Ciebie.  
 
-O ile w internecie można znaleźć sporo informacji na temat Zwifta w języku angielskim, tak brakuje ich w języku polskim. Ponadto są one dostępne w bardzo wielu miejscach, do których trudno szybko dotrzeć. Ten podręcznik ma na celu pokazanie, jak zacząć używać Zwifta, żeby się od razu nie zniechęcić. Zawiera solidną dawkę wiedzy w pigułce, byś nie musiał(a) od razu dzwonić do przyjaciela.
+O ile w internecie można znaleźć sporo informacji na temat Zwifta w języku angielskim, tak brakuje ich w języku polskim. Ponadto są one dostępne w bardzo wielu miejscach, do których trudno szybko dotrzeć.  
+
+Ten podręcznik instruuje, jak zacząć używać Zwifta, żeby się od razu nie zniechęcić. Zawiera solidną dawkę wiedzy w pigułce i linki do bardziej szczegółowych informacji.
 
 ## Czego potrzebujesz?
 
-Zanim zaczniesz korzystać ze Zwifta, sprawdź czy masz następujące urządzenia, zainstalowane wymagane oprogramowanie i założone potrzebne konta:
+Zanim zaczniesz korzystać ze Zwifta, sprawdź, czy masz następujące urządzenia, zainstalowane wymagane oprogramowanie i założone potrzebne konta:
 
 - [ ] rower (dowolny)
 - [ ] trenażer interaktywny (smart)
@@ -55,34 +57,33 @@ Warto zapoznać się też z [minimalnymi wymaganiami sprzętowymi](https://suppo
 
 ## Czy to jest darmowe?
 
-Zwift jest aplikacją **płatną**. Po utworzeniu konta każdy użytkownik otrzymuje 25 km darmowej jazdy próbnej, podczas której może przetestować wszystkie funkcjonalności. 
+Zwift jest aplikacją **płatną**. Po utworzeniu konta otrzymujesz 25 km darmowej jazdy próbnej, podczas której możesz przetestować wszystkie funkcjonalności. 
 
-Opłata za korzystanie ze Zwifta wynosi **€ 14,99** miesięcznie.   
-Można wybrać walutę dokonywania płatności (polecam dolary kanadyjskie CAD, gdyż jest lepszy przelicznik do PLN i można trochę zaoszczędzić. Więcej informacji dostępnych na [FB](https://www.facebook.com/groups/zwift.polska/permalink/2786923034855962)).  
+Opłata za korzystanie ze Zwifta wynosi **14,99 euro** miesięcznie.   
+Możesz wybrać walutę dokonywania płatności (polecam dolary kanadyjskie CAD, gdyż jest lepszy przelicznik do PLN i możesz trochę zaoszczędzić. Więcej informacji jest dostępnych na [FB](https://www.facebook.com/groups/zwift.polska/permalink/2786923034855962)).  
 
-Aby dokonać płatności, należy podać dane karty płatniczej. Płatności są pobierane z karty automatycznie co miesiąc. 
+Aby dokonać płatności, musisz podać dane karty płatniczej. Płatności są pobierane z karty automatycznie co miesiąc. 
 
 ### Jak zrezygnować z subskrypcji?
 
-Istnieją 2 opcje rezygnacji z miesięcznej subskrypcji:
-* zawieszenie subskrypcji na 12 tygodni -> należy wybrać opcję _Pause membership_  
-* zawieszenie subskrypcji na czas nieokreślony -> należy wybrać opcję _Cancel membership_
+Możesz zrezygnować z  miesięcznej subskrypcji na 2 sposoby:
+* aby zawiesić subskrypcję na **12 tygodni**, wybierz opcję _Pause membership_  
+* aby zawiesić subskrypcję na **czas nieokreślony**, wybierz opcję _Cancel membership_
   
 W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają** a konto **nie jest** usuwane! W każdym momencie można powrócić do jazd/treningów.
 
 ## Jak zacząć?
 
    1. Ściągnij aplikację Zwift na docelowe urządzenie.
-   2. Załóż wymagane konta (patrz pkt. 3) i je ze sobą zintegruj.
+   2. Załóż wymagane konta i je ze sobą zintegruj.
    3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia (wymienione w pkt. 3).
    4. Uruchom aplikację Zwift.
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)).
    6. Sparuj wszystkie dodatkowe sprzęty, z których korzystasz.
    7. Skonfiguruj awatara i wybierz rower oraz koła z dostępnych w aplikacji.
    8. Wykonaj test FTP (wybór z _Workout_).
-   9. Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. 
-   10. W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
-   11. Po zakończonej jeździe zapisz dane, wyłącz aplikację i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na _ZwiftPower_. W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_.  
+   9. Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
+   10.  Po zakończonej jeździe zapisz dane, wyłącz aplikację i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na _ZwiftPower_. W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_.  
  
  
 ## Co możesz robić na Zwifcie?
@@ -95,13 +96,13 @@ W aplikacji możesz wybrać spośród wielu aktywności sportowych:
       * korzystanie z [PowerUp’ów](https://zwiftinsider.com/powerups), zmiana kierunku jazdy, robienie zdjęć, pisanie komentarzy do innych użytkowników na trasie, dawanie like’ów, tzw. _Ride-On_ (przydatny _Zwift Companion_).
 
    * jazdy grupowe  (_group rides_)
-      * wybór ustawki w aplikacji _Zwift Companion_ lub Zwift (_Upcoming events_)
+      * wybór ustawki w aplikacji _Zwift Companion_ lub na Zwifcie (_Upcoming events_)
 
    * wyścigi (_races_)
       * szosowe 
       * czasowe (_time trial - TT_)   
 
-      Wyboru możesz dokonać w aplikacji _Zwift Companion_ (większy wybór) lub na Zwifcie (_Upcoming events_). Uwaga: należy wybrać wyścig zgodnie z własną kategorią. W przeciwnym razie grozi dyskwalifikacja!
+      Wyboru możesz dokonać w aplikacji _Zwift Companion_ (większy wybór) lub na Zwifcie (_Upcoming events_). Uwaga: należy wybrać wyścig zgodnie z własną [kategorią](#glosariusz). W przeciwnym razie grozi dyskwalifikacja!
 
    * ustawki (_meet-ups_)  
       prywatne jazdy na zaproszenie jednego z użytkowników 
@@ -110,7 +111,7 @@ W aplikacji możesz wybrać spośród wielu aktywności sportowych:
       * indywidualne – wybór jednego z dostępnych treningów lub planów treningowych lub załadowanie własnego planu treningowego z innej aplikacji
       * grupowe – w formie jazdy grupowej
 
-   * jazda z _Pacemaker_  
+   * jazda z _Pacemaker_ (_Join another Zwifter?_) 
       dołączenie do jednego z użytkowników aktualnie znajdującego się na trasie 
 
 ## Jak poradzić sobie z problemami?
@@ -119,12 +120,12 @@ Oto kilka problemów, które najczęściej pojawiają się na początku drogi ze
 
 Problem | Rozwiązanie
 ------------ | -------------
-Po przejściu do trybu jazdy awatar stoi w miejscu. | Wróć do ekranu parowania sprzętu i sprawdź, czy trenażer jest podłączony przez ant+ (zalecane). 
-Trenażer nie podaje oporu na podjazdach. | Wróć do ekranu parowania sprzętu i sprawdź, czy _Controllable_ ma symbol FE-C (w przypadku połączenia po ant+). Jeśli tak jest, sprawdź w _Settings_, czy _Trainer Difficulty_ jest ustawione na 100%.
 Na ekranie parowania pojawia się komunikat _No signal_. | W przypadku połączenia przez bluetooth spróbuj połączyć sie przez inne urządzenie (np. wcześniej przez komputer, teraz przez telefon). Jeśli komunikat zniknie, to trzeba zmienić urządzenie. W przypadku połączenia przez ant+ zaleca się kupić kabel (przedłużkę) do antenty i podłączyć kabel do laptopa. Wówczas sygnał będzie mocniejszy.
-Podczas treningu często pojawia się komunikat _EGR mode disabled temporarily_. | Wykonaj test FTP, aby Zwift mógł dostosować do Ciebie poziom treningu lub ręcznie ustaw wyższe FTP dla treningu w _Settings_. Sprawdź czy łączysz się ze Zwiftem przez bluetooth czy ant+ i wyłącz nieużywane medium. 
+Po przejściu do trybu jazdy awatar stoi w miejscu. | Wróć do ekranu parowania sprzętu i sprawdź, czy trenażer jest podłączony przez ant+ (zalecane). 
 Po wejściu w tryb treningu tryb ERG stawia bardzo duży opór i nie mogę zacząć pedałować. | Przed rozpoczęciem treningu ustaw mały blat z przodu i największą zębatkę z tyłu. Po włączeniu treningu dynamicznie zakręć korbą. Wówczas ERG nie zdąży Ci przyblokować i będziesz mógł dalej kręcić.
+Podczas treningu często pojawia się komunikat _EGR mode disabled temporarily_. | Wykonaj test FTP, aby Zwift mógł dostosować do Ciebie poziom treningu lub ręcznie ustaw wyższe FTP dla treningu w _Settings_. Sprawdź czy łączysz się ze Zwiftem przez bluetooth czy ant+ i wyłącz nieużywane medium. 
 Podczas jazdy lub wyścigu jestem sam na trasie. Wszyscy inni kolarze zniknęli. | Sprawdź połączenie z internetem.
+Trenażer nie podaje oporu na podjazdach. | Wróć do ekranu parowania sprzętu i sprawdź, czy _Controllable_ ma symbol FE-C (w przypadku połączenia po ant+). Jeśli tak jest, sprawdź w _Settings_, czy _Trainer Difficulty_ jest ustawione na 100%.
 
 ## Glosariusz
 
@@ -151,18 +152,17 @@ Więcej informacji na [stronie ZTPL](https://ztpl.cc/treningi-na-zwift/).
 [aplikacja](https://play.google.com/store/apps/details?id=com.zwift.android.prod&hl=pl&gl=US) dostępna na telefon, umożliwiająca nawigację podczas treningów, dołączanie do wydarzeń rozgrywających się na Zwifcie, czy analizowanie danych treningowych.
 
 > **ZwiftPower**  
-[strona internetowa](https://zwiftpower.com) gromadząca wyniki z wyścigów i treningów wykonanych na Zwifcie. Należy najpierw utworzyć na niej osobne konto, a następnie połączyć je z kontem Zwift.
-Więcej informacji na [stronie ZTPL](https://ztpl.cc/zwift-power).
+[strona internetowa](https://zwiftpower.com) gromadząca wyniki z wyścigów i treningów wykonanych na Zwifcie. Należy najpierw utworzyć na niej osobne konto, a następnie połączyć je z kontem Zwift. Więcej informacji na [stronie ZTPL](https://ztpl.cc/zwift-power).
 
 ## Przydatne linki
 
 Więcej informacji na temat Zwifta można znaleźć na następujących stronach:   
 
-[Strona główna aplikacji Zwift](https://www.zwift.com) (EN)  
-[Strona informacyjna Zwift](https://ztpl.cc) (PL)   
-[Kalendarz Zwifta](https://zwiftinsider.com/schedule) (EN)  
-[Wydarzenia](https://www.zwift.com/eu/events) (EN)  
-[Trasy](https://zwiftinsider.com/routes) (EN)  
-[Plany treningowe](https://whatsonzwift.com/workouts) (EN)  
-[FanPage ZwiftPolska na Facebooku](https://www.facebook.com/ZwiftPolska) (PL)  
-[Grupa na Facebooku: Polska Społeczność Zwift - ZTPL Cycling Club](https://www.facebook.com/groups/zwift.polska) (PL)
+* [Strona główna aplikacji Zwift](https://www.zwift.com) (EN)  
+* [Strona informacyjna Zwift](https://ztpl.cc) (PL)   
+* [Kalendarz Zwifta](https://zwiftinsider.com/schedule) (EN)  
+* [Wydarzenia](https://www.zwift.com/eu/events) (EN)  
+* [Trasy](https://zwiftinsider.com/routes) (EN)  
+* [Plany treningowe](https://whatsonzwift.com/workouts) (EN)  
+* [FanPage ZwiftPolska na Facebooku](https://www.facebook.com/ZwiftPolska) (PL)  
+* [Grupa na Facebooku: Polska Społeczność Zwift - ZTPL Cycling Club](https://www.facebook.com/groups/zwift.polska) (PL)
