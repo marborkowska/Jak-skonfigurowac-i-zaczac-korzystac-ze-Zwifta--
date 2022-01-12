@@ -157,8 +157,8 @@ Więcej informacji na [stronie ZTPL](https://ztpl.cc/treningi-na-zwift/).
 
 Więcej informacji na temat Zwifta można znaleźć na następujących stronach:   
 
-* [Strona główna aplikacji Zwift](https://www.zwift.com) (EN)  
-* [Strona informacyjna Zwift](https://ztpl.cc) (PL)   
+* [Strona główna Zwifta](https://www.zwift.com) (EN)  
+* [Strona informacyjna Zwifta](https://ztpl.cc) (PL)   
 * [Kalendarz Zwifta](https://zwiftinsider.com/schedule) (EN)  
 * [Wydarzenia](https://www.zwift.com/eu/events) (EN)  
 * [Trasy](https://zwiftinsider.com/routes) (EN)  
