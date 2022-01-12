@@ -135,7 +135,7 @@ obrazek reprezentujący użytkownika w wirtualnym świecie. Na Zwifcie dostosowu
 Każdy wyścig na Zwifcie jest oznaczony literami od A do E, w zależności od poziomu wytrenowania kolarza, przy czym A jest dla tych najlepszych, a E to wydarzenie dostępne dla wszystkich. Wyniki podawane są również w tych kategoriach. Nie ma kategorii wiekowych. Aby dowiedzieć się, do jakiej kategori należysz, wykonaj test FTP.  Więcej informacji na [stronie Zwifta](https://www.zwift.com/news/12012-zwift-how-to-choose-your-cycling-race-category?__znl=en-eu).  
 
 > **Strava**  
-[aplikacja](https://strava.com) zrzeszająca miłośników różnych aktywności fizycznych, umożliwiająca rejestrowanie danych dotyczących treningów i dzielenie się nimi ze znajomymi. Aby wyświetlać na niej również dane ze Zwifta, należy wcześniej zintegrować swoje konta. Więcej informacji na [stronie Zwifta](https://www.zwift.com/news/4898-zwift-how-to-connect-to-strava?__znl=en-eu).
+darmowa [aplikacja](https://strava.com) zrzeszająca miłośników różnych aktywności fizycznych, umożliwiająca rejestrowanie danych dotyczących treningów i dzielenie się nimi ze znajomymi. Aby wyświetlać na niej również dane ze Zwifta, należy wcześniej zintegrować swoje konta. Więcej informacji na [stronie Zwifta](https://www.zwift.com/news/4898-zwift-how-to-connect-to-strava?__znl=en-eu).
 
 > **Test FTP (_Functional Threshold Power_)**  
 funkcjonalna moc progowa, czyli najwyższa możliwa moc, jaką jesteś w stanie utrzymać przez godzinę jazdy. Wynik podaje się w watach i watach na kilogram. Na Zwifcie można wykonac ten test w wersji krótszej, dłuższej lub w formie tzw. _Ramp Test_. Jego wynik umożliwia dostosowanie stref treningowych, porównanie poziomu wytrenowania na przestrzeni miesięcy i określenie kategorii wyścigowej.
