@@ -78,11 +78,11 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
    2. Załóż [wymagane konta](#czego-potrzebujesz) i je ze sobą zintegruj (patrz [Glosariusz](#glosariusz)).
    3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia, z których korzystasz.
    4. Uruchom aplikację Zwift.
-   5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)).
-   6. Sparuj wszystkie dodatkowe sprzęty, z których korzystasz.
-   7. Skonfiguruj awatara i wybierz rower oraz koła z dostępnych w aplikacji.
+   5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)). Jeśli łączysz się przez ant+, upewnij się, że przy opcjach _Power source_ i _Controllable_ pojawia się symbol _FE-C_. Jeśli tak nie jest, kliknij _Search_ i wybierz go z listy. 
+   6. Na ekranie _Paired devices_ sparuj wszystkie dodatkowe urządzenia. Jeśli połączą się poprawnie, zostaną oznaczone jako _Connected_, a przejście do kolejnego ekranu nastąpi automatycznie.
+   7. Na ekranie startowym kliknij _Ride_. Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Wróć do ekranu startowego, klikając _Return to Home_.
    8. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_). Wróć do ekranu startowego.
-   9. Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. Ride On! W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
+   9.  Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. **Ride On!** W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
    10.  Po zakończonej jeździe zapisz dane, wyłącz aplikację i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na _ZwiftPower_. W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_.  
  
 ## Co możesz robić na Zwifcie?
