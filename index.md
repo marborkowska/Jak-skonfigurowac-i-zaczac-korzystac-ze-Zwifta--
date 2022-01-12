@@ -75,7 +75,7 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
 ## Jak zacząć?
 
    1. Ściągnij aplikację Zwift na docelowe urządzenie.
-   2. Załóż wymagane konta (patrz sekcja [Czego potrzebujesz?](#czego-potrzebujesz?)) i je ze sobą zintegruj (patrz [Glosariusz](##Glosariusz)).
+   2. Załóż wymagane konta patrz sekcja [Czego potrzebujesz?](#czego-potrzebujesz?) i je ze sobą zintegruj (patrz [Glosariusz](#glosariusz)).
    3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia.
    4. Uruchom aplikację Zwift.
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)).
@@ -103,7 +103,7 @@ W aplikacji możesz wybrać spośród wielu aktywności sportowych:
       * szosowe 
       * czasowe (_time trial - TT_)   
 
-      Wyboru możesz dokonać w aplikacji _Zwift Companion_ (większy wybór) lub na Zwifcie (_Upcoming events_). Uwaga: należy wybrać wyścig zgodnie z własną [kategorią](##Glosariusz). W przeciwnym razie grozi dyskwalifikacja!
+      Wyboru możesz dokonać w aplikacji _Zwift Companion_ (większy wybór) lub na Zwifcie (_Upcoming events_). Uwaga: należy wybrać wyścig zgodnie z własną [kategorią](#glosariusz). W przeciwnym razie grozi dyskwalifikacja!
 
    * ustawki (_meet-ups_)  
 prywatne jazdy na zaproszenie jednego z użytkowników 
