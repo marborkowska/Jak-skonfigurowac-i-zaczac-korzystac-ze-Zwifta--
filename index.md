@@ -17,7 +17,7 @@ Spis treści
 ## Wstęp
    
 ### Co to jest Zwift?  
-**Zwift** to aplikacja internetowa, która umożliwia przeprowadzenie treningu w domu, w wirtualnej rzeczywistości. Wystarczy wpiąć rower w interaktywny trenażer lub wskoczyć na bieżnię, by dołączyć do społeczności kolarzy i biegaczy na całym świecie. Jest to świetna alternatywa dla jazdy na zewnątrz w warunkach zimowych lub kwarantanny. Aplikacja ta wciąż się rozwija, więc jej użytkownikom nuda nie grozi.
+**Zwift** to aplikacja internetowa, która umożliwia przeprowadzenie treningu w domu, w wirtualnej rzeczywistości. Wystarczy wpiąć rower w interaktywny trenażer lub wskoczyć na bieżnię, by dołączyć do społeczności kolarzy i biegaczy na całym świecie. Jest to świetna alternatywa dla jazdy na zewnątrz w warunkach zimowych, smogu lub kwarantanny. Aplikacja ta wciąż się rozwija, więc jej użytkownikom nuda nie grozi.
   
 ### Dla kogo jest ten podręcznik?  
 Jeśli jesteś **kolarzem**, dopiero co kupiłeś swój pierwszy **trenażer interaktywny**, coś słyszałeś o **Zwifcie**, ale nie za bardzo wiesz, jak to wszystko podłączyć, sparować, skalibrować, to ten krótki podręcznik użytkownika jest właśnie dla Ciebie.  
@@ -66,7 +66,7 @@ Aby dokonać płatności, musisz podać dane karty płatniczej. Płatności są 
 
 ### Jak zrezygnować z subskrypcji?
 
-Możesz zrezygnować z  miesięcznej subskrypcji na 2 sposoby:
+Możesz zrezygnować z miesięcznej subskrypcji na 2 sposoby:
 * aby zawiesić subskrypcję na **12 tygodni**, wybierz opcję _Pause membership_  
 * aby zawiesić subskrypcję na **czas nieokreślony**, wybierz opcję _Cancel membership_
   
