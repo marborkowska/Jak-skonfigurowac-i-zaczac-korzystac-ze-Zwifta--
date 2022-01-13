@@ -22,7 +22,7 @@ Spis treści
 ### Dla kogo jest ten podręcznik?  
 Jeśli jesteś **kolarzem**, dopiero co kupiłeś swój pierwszy **trenażer interaktywny**, coś słyszałeś o **Zwifcie**, ale nie za bardzo wiesz, jak to wszystko podłączyć, sparować, skalibrować, to ten krótki podręcznik użytkownika jest właśnie dla Ciebie.  
 
-O ile w internecie można znaleźć sporo informacji na temat Zwifta w języku angielskim, tak brakuje ich w języku polskim. Ponadto są one dostępne w bardzo wielu miejscach, do których trudno szybko dotrzeć.  
+O ile w internecie można znaleźć sporo informacji na temat Zwifta w języku angielskim, brakuje ich w języku polskim. Ponadto są one dostępne w bardzo wielu miejscach, do których trudno szybko dotrzeć.  
 
 Ten podręcznik instruuje, jak zacząć używać Zwifta, żeby się od razu nie zniechęcić. Zawiera solidną dawkę wiedzy w pigułce i linki do bardziej szczegółowych informacji.
 
@@ -59,10 +59,11 @@ Warto zapoznać się też z [minimalnymi wymaganiami sprzętowymi](https://suppo
 
 Zwift jest aplikacją **płatną**. Po utworzeniu konta otrzymujesz 25 km darmowej jazdy próbnej, podczas której możesz przetestować wszystkie funkcjonalności. 
 
-Opłata za korzystanie ze Zwifta wynosi **14,99 euro** miesięcznie.   
+Opłata za korzystanie ze Zwifta wynosi **14,99 euro** miesięcznie.  
+
 Możesz wybrać walutę dokonywania płatności. Polecam dolary kanadyjskie (CAD), gdyż jest lepszy przelicznik do PLN i możesz trochę zaoszczędzić. Więcej informacji o tym, jak tego dokonać, jest dostępnych na [FB](https://www.facebook.com/groups/zwift.polska/permalink/2786923034855962).  
 
-Aby dokonać płatności, musisz podać dane karty płatniczej. Płatności są pobierane z karty automatycznie co miesiąc. 
+Aby rozpocząć subskrypcję, musisz podać dane karty płatniczej. Płatności są pobierane z karty automatycznie co miesiąc. 
 
 ### Jak zrezygnować z subskrypcji?
 
@@ -82,7 +83,7 @@ W obu przypadkach Twoje dane dotychczas zgromadzone na koncie **nie przepadają*
    6. Na ekranie _Paired devices_ sparuj wszystkie dodatkowe urządzenia. Jeśli połączą się poprawnie, zostaną oznaczone jako _Connected_, a przejście do kolejnego ekranu nastąpi automatycznie. W innym przypadku kliknij _OK_.
    7. Na ekranie startowym kliknij _Ride_. Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Możesz również dostosować ustawienia w _Settings_. Wróć do ekranu startowego, klikając _Return to Home_.
    8. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_). Wróć do ekranu startowego.
-   9.  Gotowe! Teraz już możesz zacząć jeździć na Zwifcie. Kliknij _Ride_ i **Ride On!** W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
+   9.  Gotowe! Kliknij _Ride_ i już możesz zacząć jeździć na Zwifcie. W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](#jak-poradzić-sobie-z-problemami).
    10.  Po zakończonej jeździe zapisz dane, wyłącz aplikację (_Exit_) i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na _ZwiftPower_. W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_.  
  
 ## Co możesz robić na Zwifcie?
@@ -165,3 +166,5 @@ Więcej informacji na temat Zwifta można znaleźć na następujących stronach:
 * [Plany treningowe](https://whatsonzwift.com/workouts) (EN)  
 * [FanPage ZwiftPolska na Facebooku](https://www.facebook.com/ZwiftPolska) (PL)  
 * [Grupa na Facebooku: Polska Społeczność Zwift - ZTPL Cycling Club](https://www.facebook.com/groups/zwift.polska) (PL)
+
+**Ride On!**
