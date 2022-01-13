@@ -156,7 +156,7 @@ darmowa [aplikacja](https://play.google.com/store/apps/details?id=com.zwift.andr
 
 ## Przydatne linki
 
-Więcej informacji na temat Zwifta można znaleźć na następujących stronach:   
+Więcej informacji na temat Zwifta możesz znaleźć na następujących stronach:   
 
 * [Strona główna Zwifta](https://www.zwift.com) (EN)  
 * [Strona informacyjna Zwifta](https://ztpl.cc) (PL)   
