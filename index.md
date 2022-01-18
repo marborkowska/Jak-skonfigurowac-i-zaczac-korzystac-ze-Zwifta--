@@ -145,7 +145,7 @@ funkcjonalna moc progowa, czyli najwyższa możliwa moc, jaką jesteś w stanie 
 urządzenie treningowe (rolkowe lub _Direct Drive_), które umożliwia jazdę na rowerze w pomieszczeniu. Łączy się ono z dedykowaną aplikacją (np. Zwift), wysyłając do niej różne dane tj. prędkość, moc, kadencja oraz odbierając inne dane, np. o podjeździe, przez co steruje oporem, realnie odzwierciedlając profil trasy. Przykładowymi producentami takich trenażerów są firmy Tacx, Elite, Wahoo.
 
 > **Tryb ERG**  
-opcja dostępna w niektórych trenażerach smart, która wyłącza sterowanie oporem zwiazane z nachyleniem danej trasy. :iczą się tylko waty, jakie należy wygenerować przy określonej kadencji. Na Zwifcie dostępna jest w opcji treningu (_Workout_).
+opcja dostępna w niektórych trenażerach smart, która wyłącza sterowanie oporem zwiazane z nachyleniem danej trasy. Liczą się tylko waty, jakie należy wygenerować przy określonej kadencji. Na Zwifcie dostępna jest w opcji treningu (_Workout_).
 Więcej informacji na [stronie ZTPL](https://ztpl.cc/treningi-na-zwift/).
 
 > **Zwift Companion**   
